@@ -55,3 +55,13 @@ document.querySelector('.check').addEventListener('click', function () {
     }
   }
 });
+
+// configuring the "Again!" button
+
+document.querySelector('.again').addEventListener('.click', function () {
+  document.querySelector('.message').textContent = 'Make a guess';
+  document.querySelector('.score').textContent = '20';
+  document.querySelector('.guess').textContent = '';
+  document.querySelector('.number').style.width = '15rem';
+  document.querySelector('.number').style.backgroundColor = '#222';
+});
