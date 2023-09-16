@@ -1,6 +1,6 @@
 # Guess My Number
 
-This is the first (main) full code along project in "The Complete JavaScript Course" on Udemy.
+This is the first (main) full codealong project in "The Complete JavaScript Course" on Udemy.
 
 This porject has taken the fundamentals taught in the first two sections of the course and brought in DOM.
 
